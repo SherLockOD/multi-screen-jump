@@ -20,3 +20,6 @@
 系统偏好设计 > 键盘 > 快捷键 > 服务
 
 ![setting-keyboard-service](docs/service.jpg)
+
+### 备注
+自定义修改参考：https://www.jianshu.com/p/f02839baa4cc
